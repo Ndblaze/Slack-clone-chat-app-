@@ -1,3 +1,9 @@
+## Page Images
+
+Sign in page (with Google)
+<img src="src/assets/gitDrops/signup.png" alt="signup"/>
+<img src="src/assets/gitDrops/homepage.png" alt="Homepage"/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
