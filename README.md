@@ -1,9 +1,9 @@
 ## Page Images
 
-# Sign in page (with Google)
+### Sign in page (with Google)
 <img src="src/assets/gitDrops/signup.png" alt="signup"/>
 
-# Channel/Messaging page
+### Channel/Messaging page
 <img src="src/assets/gitDrops/homepage.png" alt="Homepage"/>
 
 # Getting Started with Create React App
